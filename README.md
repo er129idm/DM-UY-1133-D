@@ -11,7 +11,7 @@ Creative Coding Syllabus &amp; Class repo
 - 2. Thursday 12:30 PM - 2:20 PM
 
 ### **Location:**
-- **2 Metrotech Center Room 310**
+- **370 Jay St. Room 310**
 
 # Creative Coding: An Intro to Creative Coding
 
