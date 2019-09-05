@@ -1,22 +1,30 @@
-# Syllabus for DM-UY 1133-D Creative Coding FA19
-Creative Coding Syllabus &amp; Class repo
+# Syllabus
 
-#### **Professor: Effie // Eric Rieper**
-#### **Email: effie.vision@gmail.com**
-#### [Slack:](https://creativecoding1133c.slack.com/) https://creativecoding1133c.slack.com/ (TO BE UPDATED)
-#### **Office Hours: by appointment**
+## Tandon School of Engineering of New York University
 
-#### **Weekly Time:**
-- 1. Tuesday 12:30 PM - 2:20 PM
-- 2. Thursday 12:30 PM - 2:20 PM
+### Technology, Culture and Society
+### Integrated Digital Media
 
-### **Location:**
-- **370 Jay St. Room 310**
+**DM-UY 1133-D Creative Coding FA19**
+
+**Fall 2019 – Professor: Effie // Eric Rieper**
+
+*Tuesday + Thursday 12:30 PM - 2:20 PM, 370 Jay St. Room 310*
+
+*[Slack:](https://creativecoding1133c.slack.com/) https://creativecoding1133c.slack.com/ TO BE UPDATED*
+
+*To contact professor: on Slack (TO BE ADDED), email effie.vision@gmail.com*
+
+### Weekly Schedule
+[WEEKLY_SCHEDULE.md](WEEKLY_SCHEDULE.md) in this repo.
+
+## A note about this syllabus
+This is a living document, as are the materials in this course repository. There are certain aspects of our course, such as our calendar or grading criteria, that will not differ from this syllabus unless there are extenuating circumstances. However, the pacing of this course may vary depending on student need, comprehension and technologies that are sometimes rapidly changing in the midst of our learning process. I will do everything in my power to update you on any changes ASAP (in class and via Slack) and to stay fully transparent about what you are expected to learn, produce, and share. Please engage in open communication, as I will do the same.
+
+---
 
 # Creative Coding: An Intro to Creative Coding
 
-
-#### Syllabus is subject to change at any time. Check back regularly.
 
 This course is an introductory programming class, appropriate for students with no programming experience, who are interested in creating interactivity.  Traditionally, introductory programming teaches algorithmic problem-solving, where a sequence of instructions describe the steps necessary to achieve a desired result.  In this course, students are trained to go beyond this sequential thinking - to think concurrently and modularly.  By its end, students are empowered to write and read code for creating interactivity including: event-driven creative applications, interactive installations,  graphical user interfaces, games and user interfaces.  Interactivity will be introduced and discussed throughout.
 
