@@ -2,7 +2,7 @@
 
 ## In-Class Material
 
-See the [Examples folder](examples/) in this directory.
+See the [Examples folder](examples/README.md) in this directory.
 
 ## References
 
