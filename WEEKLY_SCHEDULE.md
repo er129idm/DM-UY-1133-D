@@ -1,5 +1,7 @@
 ## Weekly Schedule
 
+_note: this file was auto-generated from a Google Doc and will be restructured soon with proper Markdown formatting._
+
 
 <table>
   <tr>
