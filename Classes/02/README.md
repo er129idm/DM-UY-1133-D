@@ -1,4 +1,4 @@
-# Class XX
+# Class 02
 
 ## In-Class Material
 
