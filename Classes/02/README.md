@@ -38,3 +38,22 @@ By email, as a `.zip`:
 - One bitmap `.png` of the final output of your sketch.
 - One vector `.pdf` of the sketch– remember, this may be formatted incorrectly compared to what you see in processing and your `.png`– that is OK.
 - A `notes.txt` file of any questions or problems you run into. Write these **as** you are making your sketch.
+
+## Post-class Communique
+
+```
+Hi class!
+
+You can find the complete homework instructions in our updated class repo at:
+https://github.com/effieVision/DM-UY-1133-D/tree/master/Classes/02
+
+Also, for those of you who missed the first class- please review the material in the “Classes/01” folder, complete the “ASCII Art” assignment, and email that to me:
+https://github.com/effieVision/DM-UY-1133-D/tree/master/Classes/01
+
+Lastly,
+I would like for us to maintain a class Instagram account for documenting our projects– we will all be given the login information so we can all post to that account.
+Attached is a screenshot of some former students’ projects for today’s “Recreate / Reinterpret” assignment.
+If anyone has issues or objections to using the Instagram app, please reach out to me via email.
+
+Thanks!
+```
