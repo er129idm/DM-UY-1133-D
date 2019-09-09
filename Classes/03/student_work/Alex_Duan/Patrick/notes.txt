@@ -1,0 +1,6 @@
+One of the problems I ran into was making curved vectors.
+I did not know how to make the mouth curved even though I followed the reference code.
+So I ended up making a straight face.
+Another issue I had was filling the pupils black.
+I kept accidentally filling up the whole eye black.
+I fixed it by setting a fill function in front of each ellipse function. 

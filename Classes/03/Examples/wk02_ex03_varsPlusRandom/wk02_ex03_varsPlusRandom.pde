@@ -8,27 +8,33 @@
 //these are all float type values which stands for floating point 
 //number(a number with a decimal point)
 
-float xpos=250;//variable for x-position
-float ypos=250;//variable for y-position
+float xPos = 250;//variable for x-position
+float yPos = 250;//variable for y-position
 
-float wide=20;//variable for width
+float dotWidth = 20;//variable for width
 
-void setup(){
-  size(500,500);
+void setup() {
+  size(500, 500);
+  
   //colorMode is HSB(Hue, Saturation, Brightness)
   //values from 0-255 for each
   colorMode(HSB);
-  background(100,255,200);
+  background(35, 255, 240);
 }
 
-void draw(){
+void draw() {
+  
   //generating random float type number between 0 and width of sketch window
-  xpos=random(width);
+  xPos = random(width);
+  
   //generating random float type number between 0 and height of sketch window  
-  ypos=random(height);
+  yPos = random(height);
+  
   //generating random float type number between 5 and 30
-  wide=random(5,30);
+  dotWidth = random(10, 25);
+  
   noStroke();
-  fill(0,255,255);
-  ellipse(xpos, ypos, wide, wide);
+  fill(40, 255, 0);
+  ellipse(xPos, yPos, dotWidth, dotWidth);
+  
 }

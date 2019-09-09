@@ -1,0 +1,9 @@
+Saturday: Began to find objects.
+First decided J.Cole, then chose Spongebob, then eventually decided on the elder scrolls oblivion symbol.
+Sunday: Began looking over the resources and explored different options.
+Monday: Spent most of day in library ran into a few problems.
+1). Mixmatch Error: Active vs Static
+Was able to fix issue through join function and reset to previous conditions ]
+2). Unable to incorporate void fill but aftering looking at youtube and asking some friends was able to accomplish the tasks.
+3). the curvedvertex function often deleted some lines or didnt curve at all. I decided to work with what did curve and ask in class on tuesday.
+Finished monday @ 6. 
