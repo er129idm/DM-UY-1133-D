@@ -1,0 +1,4 @@
+NOTES:
+
+1. i still need help with positioning the different ellipses of my sketch; right now just applying a guess and check method
+2. Where exactly do we write beginRecord and endRecord in our code; while I was able to succesfully save the skecth as a pdf, I had some trouble getting to that point and am still not sure I did it completely right

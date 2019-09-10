@@ -1,0 +1,13 @@
+how do i pick a specific color without taking 12 hrs by picking random numbers?
+  !!! tools > color selector
+how do i make an upside down triangle?
+how do i round the corners of the triangle?
+i need to overlap this rectangle over the triangle without a fill.
+
+arcs??!!??!!
+i'm not really sure what the last number 0 represents
+  !!! how much of the arc is shown?
+what do the third and fourth coordinates represent...
+  !!! okay, i think width/height
+i cannot figure out how to stretch/enlarge the arcs...
+how do i rotate the arcs?

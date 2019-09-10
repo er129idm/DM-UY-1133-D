@@ -44,21 +44,27 @@ void draw() {
       state = 1;
     }
     //if the val of state is 1 this code block will run
-  } else if (state == 1) {
+  }
+  
+  else if (state == 1) {
     posY = posY+1;
     if (posY >= height-10) {
       posY = height-10;
       state = 2;
     }
     //if the val of state is 2 this code block will run
-  } else if (state == 2) {
+  }
+  
+  else if (state == 2) {
     posX = posX-1;
     if (posX <= 10) {
       posX = 10;
       state = 3;
     }
     //if the val of state is 3 this code block will run
-  } else if (state == 3) {
+  }
+  
+  else if (state == 3) {
     posY = posY-1;
     if (posY <= 10) {
       posY = 10;

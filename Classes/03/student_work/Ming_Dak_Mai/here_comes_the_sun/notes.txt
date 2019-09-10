@@ -1,0 +1,10 @@
+Ming Mai's questions for Assignment 01.b: "Digitize the Old Guard!":
+Why is it important that the axes be integers?
+What is a float?
+How do I know when to declare a int versus a float?
+What is noLoop() and why is it important?
+Does it matter where functions are defined on a sketch since matter orders in a sketch?
+Is there a way to color in an entire section below a curve?
+How do I add multiple points (stars) without drawing all of them out individually?
+How do I add multiple lines (hatching) without drawing all of them out individually?
+Is there a way to emulate brush strokes?
