@@ -7,6 +7,7 @@
 */
 
 String[] userNames = {
+  "@2019DMUY1133D",
   "@dee.em.you.why", 
   "@2019DMCCD", 
   "@conveneat1230", 
@@ -19,6 +20,7 @@ String[] userNames = {
 };
 
 String[] displayNames = {
+  "Creative Coding",
   "crazycoders", 
   "Break the Code", 
   "creative coders", 
@@ -29,6 +31,7 @@ String[] displayNames = {
 };
 
 String[] bios = {
+  "Creative Coding Class",
   "DM you? Why?", 
   "DM-UY 1133", 
   "Collage of the crazy mindsets of creative coding people", 

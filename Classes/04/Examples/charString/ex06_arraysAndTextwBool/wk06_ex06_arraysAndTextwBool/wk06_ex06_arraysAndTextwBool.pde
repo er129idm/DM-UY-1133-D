@@ -3,7 +3,7 @@ int meal=0;
 PFont f;
 int fntSize=10;
 String selection = "what's for dinner?";
-boolean tryAgain=true;
+boolean tryAgain = true;
 
 void setup() {
 
@@ -19,9 +19,11 @@ void draw() {
   textFont(f, 48);
   textAlign(CENTER);
 
-  if (tryAgain) {
+  if (tryAgain == true) {
+    fill(255,0,0);
     text("what's for dinner?", width/2, height/2);
   } else {
+    fill(0,255,0);
     text(selection, width/2, height/2);
   }
 }
@@ -33,12 +35,12 @@ void mouseClicked () {
   //random is between 0 and 5 which means bewteen 0.0001 and 4.9999 which converts to 
   // bewteen 0 and 4 as an int
 
-  meal=int(random(0, 5));
+  meal = int(random(0, 5));
 
   //passes the string to the text
-  selection=dinner[meal];
+  selection = dinner[meal];
 
   // Flips the tryAgain boolean.
-  tryAgain=!tryAgain;
+  tryAgain = !tryAgain;
   
 }
