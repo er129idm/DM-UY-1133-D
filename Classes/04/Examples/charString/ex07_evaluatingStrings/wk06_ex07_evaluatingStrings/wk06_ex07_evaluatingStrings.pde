@@ -1,8 +1,8 @@
 //wk06_ex07_evaluatingStrings
 
-String nameOne= "Kevin";
-String nameTwo= "Sally";
-String nameThree= "Renee";
+String nameOne = "Kevin";
+String nameTwo = "Sally";
+String nameThree = "Renee";
 
 String test = "Sally";
 

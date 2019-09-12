@@ -5,19 +5,20 @@
 String[] dinner= new String[5];
 int meal=0;
 
-//load the array in setup
 void setup(){
+  
+  //loading the array in setup  
   dinner[0]="chicken";
-  dinner[1]="fish";
+  dinner[1]="tide pods";
   dinner[2]="sea urchin";
   dinner[3]="pasta";
   dinner[4]="ice cream";
+  
 }
-//nothing here
+
 void draw(){
-  
-  
 }
+
 //have an output when mouseClicked
 void mouseClicked (){
   //array index ID 'meal' neads to be a whole number but 'random' returns a float
@@ -25,6 +26,6 @@ void mouseClicked (){
   //random is between 0 and 5 which means bewteen 0.0001 and 4.9999 which converts to 
   // bewteen 0 and 4 as an int
     meal=int(random(0,5));
-    println("DINNER IS "+dinner[meal]);
+    println("I will have " + dinner[meal] + " for dinner.");
 }
  
