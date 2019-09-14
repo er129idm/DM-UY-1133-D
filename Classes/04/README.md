@@ -10,7 +10,11 @@ Today we will be covering the following topics:
 
 ## Homework
 
-The details of this assignment will be revealed in class.
+Produce a sketch that takes place entirely in the debug console.
+
+This can be a piece of generative poetry, an animation, abstract illustration, etc...
+
+Use at least one array of `String`s, and include at least one instance of using `random()` to produce an index number to fetch a random item from an array.
 
 ### Deliverables - Prior to class, Tuesday
 
