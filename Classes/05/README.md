@@ -1,20 +1,11 @@
-# Class XX
+# Week 3 Class A
 
-## Slides
+Today we will review all the things we've learned up to this point, and begin learning the final piece of the Creative Coder's Toolkit: Interaction.
 
-The Google Slides can be accessed from [#](Link Here)
-
-A PDF of the slides can be found in this directory.
-
-## Homework Format
-
-Homework deliverables here.
-
-## Post-class Communique
-
-```
-
-Post-class email here.
-
-
-```
+* **Keyword variables**
+	* `mouseX`, `mouseY`
+	* `width`, `height`
+	* `frameCount`
+* **Interaction functions**
+	* `mouseMoved()`, `mouseDragged()`, `mouseClicked()`
+	* `keyPressed()`
