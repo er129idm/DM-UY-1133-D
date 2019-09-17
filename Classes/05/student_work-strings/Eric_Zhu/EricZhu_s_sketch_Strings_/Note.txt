@@ -1,0 +1,3 @@
+How to set up any interaction of key board or mouse during the process of drawing?
+
+How to represent actual in the draw instead of using delay to show a sense of time?

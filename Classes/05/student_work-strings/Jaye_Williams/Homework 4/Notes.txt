@@ -1,0 +1,6 @@
+Jaye Williams
+Homework 4 (9/12/19)
+Notes
+
+I couldn't seem to figure out how to randomly add new strings from one list
+to another list. 

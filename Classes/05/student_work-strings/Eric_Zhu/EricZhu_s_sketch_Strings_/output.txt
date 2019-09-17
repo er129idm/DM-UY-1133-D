@@ -1,0 +1,33 @@
+This is a vocabulary game . 
+You need to take out a piece of paper and a pen.
+You have 30 seconds to do that . 
+30
+29
+28
+27
+……
+3
+2
+1
+Here comes the rule. 
+The screen will appear something like this ' c_T'. 
+And ,you need to think about any letter that can make it an English word. 
+Write down any letter that is correct . 
+People who has the most correct answer will be the winner .
+You have only 20 senconds to come up with possible answers .
+The GAME BEGINS IN ...
+3
+2
+1
+
+GO!
+vo_
+20 vo_
+19
+18vo_
+……………………
+2vo_
+1
+Time’s up
+How many answers do you have?
+PRESS ‘ R’ TO PLAY AGAIN. 

@@ -1,0 +1,7 @@
+Issues that I had:
+
+The biggest "issue" I had (if you can really call it that) is that I had to create a randomization for every single blank to be filled in because every time the same part of speech was called it would produce the same random word which is not what I wanted.
+
+Additionally, I really wanted there to be the option for the user to create their own random words given the parts of speech and then make variables from those user inputted words and then use those in the story, but there's no way in processing to input those words in the console so I had to scrap that.
+
+Other than that, this project wasn't too complicated, it just took a lot of time to actually write out all the commands and strings. I opted not to copy and paste the individual lines (except for where I had to repeat the same command multiple times for the randomization ) so that I could have more practice with the language.
