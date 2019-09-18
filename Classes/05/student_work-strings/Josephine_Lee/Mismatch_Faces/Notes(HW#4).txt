@@ -1,0 +1,9 @@
+
+Josephine Lee HW #4
+
+
+Notes
+I didn't know how to use slashes and quotation marks in my string because they were seen as code.
+	This was figured out in class by using an escape sequence. Just 
+	by adding a backslash, which tells processing to not see what's 
+	after it as code, but as a string.

@@ -1,0 +1,3 @@
+i need to keep using "\n" in order to keep space in between the segments of the poem
+how do i decrease the number of times "wave after wave" repeats? 10 is too many...
+  !!! change int(random(1, 10)) to something like (1,4)

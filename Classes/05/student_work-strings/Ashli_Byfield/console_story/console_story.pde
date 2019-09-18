@@ -19,25 +19,23 @@ String randomEmpire = empire[int(random(0, empire.length))];//sets that a random
 String randomCollection = collection[int(random(0, collection.length))]; //sets that a random option from the array collection will come up every time
 // i can't space between lines 
 
-  println("Hey you! First, let me congatulate you on the wonderful life you've had thus far. Ever since that Creative Coding class back in 2019, you have been on a steady rise baby and your not coming down! It all started when you...");
-  delay(2500); //delays when text is shown
-  println("Quit your awful internship at " + randomCompany + " and pursued your lifelong dream of being a(n) " + randomOccupation);
-  delay(4000);
-  println("Then one day you met " + randomLoveLife + " and fell madly in love");
-  delay(4000);
-  println("The two of you were instantly married and moved to " + randomPlace + " and bought a home with a huge backyard to house your " + randomNumber + randomPet);
-  delay(4000);
-  println("A couple years later you chose to start up what would later become a worldwide empire selling " +  randomEmpire + " but then eventually retired so you could focus on more important things like expanding your " + randomCollection + " collection");
-  delay(4000);
-  println("So yeah, that's been your life thus far. Pretty rad right?!?!?! And I know what you're thinking... 'My life can't possibly be this great forever, can it?'");
-  delay(2000);
-  println("The answer is 'Yes. Yes it can' But if you're ever in doubt... Just remember your motto:");
-  
-  
-  for (int i = 0; i < int(random(1, 3)); i++) { //sets a loop for motto answers; it's only appearing once or twice but i want it to appear 3 times
-    String randomMotto = motto[int(random(0, motto.length))]; //sets random answers to be plugged into the following line...
-    delay(2000);
-    println("What would " + randomMotto + " do?");
-    
-   
-  }
+println("Hey you! First, let me congratulate you on the wonderful life you've had thus far. Ever since that Creative Coding class back in 2019, you have been on a steady rise baby and your not coming down! It all started when you...");
+delay(2500); //delays when text is shown
+println("Quit your awful internship at " + randomCompany + " and pursued your lifelong dream of being a(n) " + randomOccupation);
+delay(4000);
+println("Then one day you met " + randomLoveLife + " and fell madly in love");
+delay(4000);
+println("The two of you were instantly married and moved to " + randomPlace + " and bought a home with a huge backyard to house your " + randomNumber + " " + randomPet);
+delay(4000);
+println("A couple years later you chose to start up what would later become a worldwide empire selling " +  randomEmpire + " but then eventually retired so you could focus on more important things like expanding your " + randomCollection + " collection");
+delay(4000);
+println("So yeah, that's been your life thus far. Pretty rad right?!?!?! And I know what you're thinking... 'My life can't possibly be this great forever, can it?'");
+delay(2000);
+println("The answer is 'Yes. Yes it can' But if you're ever in doubt... Just remember your motto:");
+
+String randomMotto = motto[int(random(0, motto.length))]; //sets random answers to be plugged into the following line...
+delay(2000);
+
+for (int i = 0; i < 3; i++) { //sets a loop for motto answers; it's only appearing once or twice but i want it to appear 3 times
+  println("What would " + randomMotto + " do?");
+}

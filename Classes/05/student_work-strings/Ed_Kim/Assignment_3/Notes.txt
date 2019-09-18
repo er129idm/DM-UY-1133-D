@@ -1,0 +1,2 @@
+* Wanted the program to create a sky of different height and width each time it's run but didn't figure it out
+* To improve it, I'd like to make the spaces and stars appear one a time

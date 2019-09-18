@@ -10,7 +10,7 @@ String[]adjective = {"a spooky", "a regrettable", "an awesome", "an insane"};
 String[]animal = {"horse", "cat", "dog", "mouse", "bear", "armadillo"};
 String[]sleepy = {"!!!!!!!!!!!!!!", "xxxxxxxxxxxxx"};
 
-void draw() {
+void setup() {
 
   String randomVerbing = verbing[int(random(0, verbing.length))];
   String randomPlace = place[int(random(0, place.length))];

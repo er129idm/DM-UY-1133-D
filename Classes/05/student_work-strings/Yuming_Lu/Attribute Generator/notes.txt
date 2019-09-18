@@ -5,4 +5,5 @@
 \margl1440\margr1440\vieww10800\viewh8400\viewkind0
 \pard\tx720\tx1440\tx2160\tx2880\tx3600\tx4320\tx5040\tx5760\tx6480\tx7200\tx7920\tx8640\pardirnatural\partightenfactor0
 
-\f0\fs24 \cf0 Have a nice day}
+\f0\fs24 \cf0 During the time of running the program, I want it to run for only one time but it keeps running without stopping. \
+Also, I tried to play the random element twice at the same time. However, what is generated is the same thing. Therefore, I can only cancel it, and makes it run for only one time.}
