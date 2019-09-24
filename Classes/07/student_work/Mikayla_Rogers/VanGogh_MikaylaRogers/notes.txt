@@ -1,0 +1,20 @@
+goal: connect van gogh's ear to his head!
+how do i keep van gogh's face in the bottom right corner and have controls for his ear to move when keys are pressed?
+
+I had to resize the photo of Van Gogh to fit into the bottom right corner. I also had to use the lasso tool to crop out his ear. 
+
+How do I load multiple images?
+	naming both variables in the beginning with "PImage" will allow me to use the 		different variables later in the sketch
+	
+Why does image a disappear after I draw image b?
+
+How do I make the ear move one step at a time with each key press? Instead of it continuously flying by.
+
+Where do I put "background" so it loops through the entire sketch? It shows up for a quick second then disappears...
+	use "background = "
+
+how do I give the ear 1080x1080 borders so it doesn't continue flying off the sketch?
+
+How do I make text pop up when I press ENTER?
+
+Okay, I figured out how to make the way2gogh background pop up when I press ENTER, but I'm struggling to make it stay. It only pops up for a second then disappears after I release ENTER.

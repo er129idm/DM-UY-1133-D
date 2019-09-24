@@ -1,0 +1,2 @@
+1. I tried loop displaying answer choices, but they would draw and disappear right away. So I tried noLoop(), then it wouldn’t display answer choices for the next question. 
+

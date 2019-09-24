@@ -1,0 +1,3 @@
+how to make something happen every five(or any time) time the sketch is draw?
+how to set a value to something that is precise in this time of the drawloop and can access in future drawloop?
+how to tell a value to stop once complete certain times of draw?

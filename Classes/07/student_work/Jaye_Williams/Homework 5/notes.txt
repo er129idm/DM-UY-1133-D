@@ -1,0 +1,9 @@
+Originally instead of displaying choose a b or c, I was going to put choose 1, 2,
+or 3, but I couldn't figure out the keycodes for the characters.
+
+I wanted the program to run and then at the end of one loop you would be left with
+viewing the picture you chose, but I couldn't figure out how to kill the loop
+once the user input is detected and the picture is shown.
+
+I couldn't figure out why it was taking so long after the button was pressed for
+the picture to show up.

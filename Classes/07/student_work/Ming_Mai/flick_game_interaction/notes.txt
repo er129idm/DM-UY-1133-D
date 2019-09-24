@@ -1,0 +1,6 @@
+How do I make the rotate function more friendly to use? Rotating about the origin
+of the sketch makes everything difficult.
+How do I properly implement pushMatrix/ popMatrix?
+My screen literally cannot fit a 1080 x 1080 image because it's only technically
+HD
+How do I stop text from being translated and rotated?

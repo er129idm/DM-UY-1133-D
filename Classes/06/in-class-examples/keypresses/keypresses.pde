@@ -10,6 +10,8 @@ float xPosition, yPosition;
 
 float movementSpeed = 5.0;
 
+int state = 0;
+
 
 void setup() {
   size(1080, 1080);
@@ -26,35 +28,62 @@ void setup() {
 
 void draw() {
 
-  if (upArrowIsHeld) {
-    yPosition = yPosition - movementSpeed;
-  }
-  if (leftArrowIsHeld) {
-    xPosition = xPosition - movementSpeed;
-  }
-  if (downArrowIsHeld) {
-    yPosition = yPosition + movementSpeed;
-  }
-  if (rightArrowIsHeld) {
-    xPosition = xPosition + movementSpeed;
+  background(0);
+
+  if (state == 0) {
+    textSize(30);
+    text("CLASS INSTA:  ccvisionidm   /   code2019", 100, height/2);
   }
 
-  float mappedXColor = map(xPosition, 0, width, 0, 255);
-  float mappedYColor = map(yPosition, 0, width, 0, 255);
+  if (state == 1) {
 
-  fill(0, mappedYColor, mappedXColor);
+    if (upArrowIsHeld) {
+      if (yPosition > 0) {
+        yPosition = yPosition - movementSpeed;
+      }
+    }
 
-  for (int i = 0; i < 10; i++) {
-    float squareSize = random(0, 10);
-    rect(xPosition + random(-50, 50), yPosition + random(-50, 50), squareSize, squareSize);
+    if (leftArrowIsHeld) {
+      if (xPosition > 0) {
+        xPosition = xPosition - movementSpeed;
+      }
+    }
+
+    if (downArrowIsHeld) {
+      if (yPosition < height) {
+        yPosition = yPosition + movementSpeed;
+      }
+    }
+
+    if (rightArrowIsHeld) {
+      if (xPosition < width) {
+        xPosition = xPosition + movementSpeed;
+      }
+    }
+
+    float mappedXColor = map(xPosition, 0, width, 0, 255);
+    float mappedYColor = map(yPosition, 0, width, 0, 255);
+
+    fill(0, mappedYColor, mappedXColor);
+
+    for (int i = 0; i < 10; i++) {
+      float squareSize = random(0, 10);
+      rect(xPosition + random(-50, 50), yPosition + random(-50, 50), squareSize, squareSize);
+    }
+
+    rect(xPosition, yPosition, 50, 50);
   }
-
-  rect(xPosition, yPosition, 50, 50);
 }
 
 void keyPressed() {
 
+  if (key == RETURN || key == ENTER) {
+    println("ENTER PRESSED.");
+    state = 1;
+  }
+
   if (key == CODED) {
+
     /// Move Character UP
     if (keyCode == UP) {
       upArrowIsHeld = true;

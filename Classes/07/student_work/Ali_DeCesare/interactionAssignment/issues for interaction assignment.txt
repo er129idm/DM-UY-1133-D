@@ -1,0 +1,7 @@
+I think this assignment went really well overall.
+
+I was really struggling to find an idea at first, but I decided to keep it fairly simple in the end and that helped me create a coherent "game"
+
+The one thing that I really had trouble with was creating a way to reset the game. No matter what I tried, I couldn't figure out how to make it so when you pressed a key the game reset. The biggest issue I had with that was that the countdown timer always got screwed up and wouldn't reset properly, so I decided to get rid of it all together.
+
+I would have really liked to see a way to reset it though because I think it would have made the game more interactive overall, but it's something I can work on to fix

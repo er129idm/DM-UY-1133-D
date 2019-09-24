@@ -1,0 +1,7 @@
+SO MANY THINGS WENT WRONG!!!
+
+1. I was initially trying to create a quiz, but the texts would overlap.... I'' put the code for that in another .txt doc (it is unfinished because I gave up and started something new)
+2. I can't seem to position anything in the center, everything is to the right and cut off by my screen
+3. When I change to state 1, state 0 still shows 
+4. How do I make image size larger?
+5. When I try to save as png, animal image is severely delayed...
