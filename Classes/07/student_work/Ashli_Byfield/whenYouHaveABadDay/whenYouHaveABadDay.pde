@@ -17,10 +17,19 @@ void setup() {
 }
 
 void draw() {
-  state = 0;
-  textSize(30);
-  fill(255);
-  text("Hello user! Having a bad day? Let's see what we can do about that... Click 'Enter' for a surprise", xPosition, yPosition);
+  
+  background(0);
+  
+  if (state == 0) {
+    textSize(30);
+    fill(255);
+    textAlign(CENTER);
+    text("Hello user! Having a bad day? Let's see what we can do about that... \nClick 'Enter' for a surprise", width/2, yPosition);
+  }
+  if (state == 1) {
+    img = loadImage(randomImage); 
+    image(img, xPosition, yPosition);
+  }
 }
 
 void keyPressed() {
@@ -32,11 +41,5 @@ void keyPressed() {
       //don't know how to do this with left and right mouse
       state = 1; //changes screen
     }
-
-    if (state == 1) {
-      img = loadImage(randomImage); 
-      image(img, xPosition, yPosition);
-    }
-  } 
+  }
 }
- 
