@@ -1,20 +1,13 @@
-# Class XX
+# Week 4 - Class A
 
-## Slides
+* "Interaction" project presentations
 
-The Google Slides can be accessed from [#](Link Here)
+* Functions
 
-A PDF of the slides can be found in this directory.
+* Intro to Classes, if we have enough time.
 
-## Homework Format
+## Homework
 
-Homework deliverables here.
+#### For Thursday
 
-## Post-class Communique
-
-```
-
-Post-class email here.
-
-
-```
+Pick one of your previous projects and refactor or expand it to use functions where you see fit.
