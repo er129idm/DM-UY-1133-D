@@ -1,0 +1,6 @@
+goal: make bouncing images
+i'm confused about how to incorporate the array list for images
+i'm also struggling with creating the class for images
+there's an error saying that display, move, and bounce functions don't exist...?
+images are very laggy --> decrease resolution
+  i decreased resolution but they're still kind of laggy...

@@ -1,0 +1,1 @@
+1. How do you make an arrayList inside an arrayList? (Was trying to make an ArrayList for random RGB values, but didn't know how to put (int, int, int) inside the arrayList.

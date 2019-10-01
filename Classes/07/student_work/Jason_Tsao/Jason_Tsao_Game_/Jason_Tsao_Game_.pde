@@ -1,6 +1,4 @@
 // Jason's Interactive Game 
-
-float xPosition, yPosition;
 boolean wHeld = false, aHeld = false, dHeld = false, sHeld = false;
 boolean iHeld = false, jHeld = false, lHeld = false, kHeld = false;
 Players player1;
@@ -10,55 +8,82 @@ void setup() {
   size(1080, 1080);
   ellipseMode(CENTER);
   rectMode(CENTER);
-  xPosition = width/2;
-  yPosition = height/2;
-  player1 = new Players(ellipse(xPosition, yPosition, 30, 30));
-  player2 = new Players(rect(xPosition, yPosition, 30, 30));
+  player1 = new Players(10, 80, 0, true);
+  player2 = new Players(300, 300, 150, false);
 }
 
 void draw() {
-
- 
-
   
- // the controls for player1  
+  background(0);
+  
+  player1.drawMe();
+  player2.drawMe();
+
+  // the controls for player1  
   if (wHeld) {
-    yPosition = yPosition -3.0;
+    player1.playerYPosition = player1.playerYPosition - 3.0;
   }
   if (aHeld) {
-    xPosition = xPosition -3.0;
+    player1.playerXPosition = player1.playerXPosition - 3.0;
   }
   if (sHeld) {
-    yPosition = yPosition +3.0;
+    player1.playerYPosition = player1.playerYPosition + 3.0;
   }
   if (dHeld) {
-    xPosition = xPosition +3.0;
+    player1.playerXPosition = player1.playerXPosition + 3.0;
   }
-  
-//the controls for player 2
+
+  //the controls for player 2
 
   if (iHeld) {
-    yPosition = yPosition -3.0;
+    player2.playerYPosition = player2.playerYPosition - 3.0;
   }
   if (jHeld) {
-    xPosition = xPosition -3.0;
+    player2.playerXPosition = player2.playerXPosition - 3.0;
   }
   if (lHeld) {
-    yPosition = yPosition +3.0;
+    player2.playerYPosition = player2.playerYPosition + 3.0;
   }
   if (kHeld) {
-    xPosition = xPosition +3.0;
+    player2.playerXPosition = player2.playerXPosition + 3.0;
   }
 }
- 
+
 
 //decalring class
 
-class Players{
-  xPosition = width/2;
-  yPosition = height/2;
+class Players {
+  
+  /// Players PROPERTIES
+  float playerXPosition;
+  float playerYPosition;
+  float playerHue;
+  boolean isSquare;
+  
+  /// 
+  Players(float startX, float startY, float startHue, boolean startShape) {
+    playerXPosition = startX;
+    playerYPosition = startY;
+    playerHue = startHue;
+    isSquare = startShape;
+  }
+  
+  void drawMe() {
+    pushStyle();
+    colorMode(HSB);
+    fill(playerHue, 255, 255);
+    if (isSquare) {
+      rect(playerXPosition, playerYPosition, 50, 50);
+    }
+    else {
+      ellipse(playerXPosition, playerYPosition, 50, 50);
+    }
+    popStyle();
+  }
+  
+  
 }
- 
+
 
 void keyPressed() {
   if (key== 'w') {
@@ -79,19 +104,19 @@ void keyPressed() {
   }
   if (key== 'i') {
 
-    wHeld = true;
+    iHeld = true;
   }
   if (key== 'j') {
 
-    aHeld = true;
+    jHeld = true;
   }
   if (key== 'l') {
 
-    dHeld = true;
+    lHeld = true;
   }
   if (key== 'k') {
 
-    sHeld = true;
+    kHeld = true;
   }
 }
 
@@ -108,16 +133,16 @@ void keyReleased() {
   if (key== 's') {
     sHeld =false;
   }
-    if (key== 'i') {
-    wHeld =false;
+  if (key== 'i') {
+    iHeld =false;
   }
   if (key== 'j') {
-    aHeld =false;
+    jHeld =false;
   }
   if (key== 'l') {
-    dHeld =false;
+    lHeld =false;
   }
   if (key== 'k') {
-    sHeld =false;
+    kHeld =false;
   }
 }

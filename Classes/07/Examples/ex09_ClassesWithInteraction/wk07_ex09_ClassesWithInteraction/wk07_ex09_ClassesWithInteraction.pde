@@ -22,5 +22,7 @@ void draw() {
 void mouseClicked() {
   /// Click to create a new ball object and add it to the ArrayList.
   float ballSize = 10 + random(40);
-  balls.add(new Ball(random(100), mouseX + ballSize, mouseY + ballSize, random(5), random(5), ballSize, true));
+  
+  balls.add( new Ball(10, mouseX + ballSize, mouseY + ballSize, 10, 10, ballSize, true) );
+  
 }

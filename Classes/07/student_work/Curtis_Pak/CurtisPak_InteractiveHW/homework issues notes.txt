@@ -1,0 +1,9 @@
+I had a lot of trouble with this homework regarding issues with interactivity and incrementing variables. I'm not sure why, 
+but I couldn't increment some of my variables based on the amount of mouse clicks I have done. Originally I wanted to have
+a rectangle that grows depending on how many mouse clicks that the user does. So the end goal would be to make the rectangle
+reach the other end of the canvas and then the game would be over. But due to issues I made a different version based
+on how many mouse clicks are counted in the time that is given.
+But for some reason whenever I tried to implement that, the rectangle would never grow no matter the amount of mouseclicks. 
+Another issue that I had was that the counter will continue to go on even though I would make a conditional where the mouse
+click counter would only increase if the time was above 0. 
+Having issues where the counter won't stop when the timer goes to zero.

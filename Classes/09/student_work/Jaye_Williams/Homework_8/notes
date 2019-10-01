@@ -1,0 +1,4 @@
+I couldn't figure out how to limit the mouse clicks to being inside of the squares. 
+
+I was trying to figure out how to get the program to run all over again and reset
+at the end, but it ended up not working. I initially tried to use the redraw function.

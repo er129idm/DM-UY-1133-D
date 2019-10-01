@@ -1,0 +1,38 @@
+boolean enterKeyIsHeld = false;
+boolean spaceKeyIsHeld = false;
+
+float xPosition, yPosition;
+
+int state = 0;
+
+void setup() {
+  size(1080, 1080);
+  xPosition = width/2;
+  yPosition = height/2;
+  background(0);
+}
+
+void draw() {
+  textSize(30);
+  fill(255);
+  text("Hello user! Hold down 'ENTER' to start", xPosition, yPosition); 
+  //can't get text to go to center...is cut off
+  state = 0;
+}
+
+void keyPressed() {
+  if (key == CODED); 
+  {
+    if (key == ENTER); 
+    {
+      enterKeyIsHeld = true;
+      spaceKeyIsHeld = false;
+      //I initially wanted to have the user choose between clicking the left mous or the right but couldn't figure out how
+      state = 1;
+
+      if (state == 1) {
+        textSize(30);
+        fill(255);
+        text("Do you like cats or dogs?", xPosition, yPosition); 
+        
+.... and then I gave up.... 

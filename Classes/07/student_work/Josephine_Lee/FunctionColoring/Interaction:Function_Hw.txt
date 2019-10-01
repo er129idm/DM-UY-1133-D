@@ -1,0 +1,3 @@
+Interaction/Function HW Josephine Lee
+
+I had a hard time making text disappear without making everything on the whole screen disappear with it.

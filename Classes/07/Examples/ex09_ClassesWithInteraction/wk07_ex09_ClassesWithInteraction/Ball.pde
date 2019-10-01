@@ -16,7 +16,7 @@ class Ball {
     xspeed=tempXspeed;
     yspeed=tempYspeed;
     dia=tempDia;
-    intersect=tempIntersect;
+    intersect = tempIntersect;
   }
 
   /// Draw function for the Ball class. 
@@ -46,7 +46,7 @@ class Ball {
   /// Takes an incoming position (from the mouse) and checks if it intersects
   /// with this ball object, thus being a mouse hover.
   void touch(int mx, int my) {
-    if (mx>xpos-dia/2 && mx<xpos+dia/2 && my>ypos-dia/2 && my<ypos+dia/2) {
+    if ( mx > xpos - dia/2 && mx < xpos + dia/2 && my > ypos-dia/2 && my < ypos + dia/2) {
       //if it does the interesect var is set to false from true and un in display the color is changed      
       intersect = false;
     }

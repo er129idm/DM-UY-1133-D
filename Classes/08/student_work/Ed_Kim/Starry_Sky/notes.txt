@@ -1,0 +1,1 @@
+I wanted to originally make the stars appear and scroll across the canvas but it seems harder than I thought

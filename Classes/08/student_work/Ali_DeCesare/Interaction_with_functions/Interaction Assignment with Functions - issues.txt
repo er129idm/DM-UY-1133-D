@@ -1,0 +1,7 @@
+Interaction Assignment with functions
+
+This assignment went pretty well. I had some issues trying to figure out how to get the state system to work, specifically with the timer because I found that it was impossible to reset the millis() function once the program had started and it would immediately start counting down as soon as it started running, so I had to make it so everything was timed perfectly and do some math to account for the "loading" screens where you have ten seconds in between each level. That was the hardest thing to deal with.
+
+I also had an issue with the final level where the blobs are moving. I put a random range of the direction and speed of motion as (-4, 4), not realizing that 0 is part of this range so occasionally you will get a blob in the third level that is stationary. I wasn't sure how to resolve this and didn't see it as a super detrimental aspect to the gameplay.
+
+Overall, I really learned a lot through the process of putting this all together and it allowed me to explore some new processes and ideas when designing a game using processing. I enjoyed the process and think that it went pretty well overall.

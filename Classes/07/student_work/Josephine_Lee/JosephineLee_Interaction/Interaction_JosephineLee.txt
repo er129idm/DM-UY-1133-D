@@ -1,4 +1,0 @@
-Interactive HW Josephine Lee
-
-I can't figure out how to change the color gradient of the shapes that get produce as the mouse moves around. The color stays in the same color gradient.
-

@@ -1,0 +1,5 @@
+Not gonna lie, I really didn't like working with classes at first. I really thought that they were just confusing and why wouldn't you just want all your code in the same place? 
+
+However, after working with classes and actually making my own, I can now see why these are useful. In my project, I don't think I utilized classes to their full potential, but it helped me get familiar with building a class and then using it in the actual sketch. 
+
+I really like the way that mine came out and even though it's kind of simple, it works! 

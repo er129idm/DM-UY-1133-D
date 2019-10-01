@@ -1,0 +1,5 @@
+Classes and ArrayList_JosephineLee
+
+I can figure out how to make it so that with a click of a button, it would change the colors of the keys, instead of having to go into the code and changing the color manually.
+
+I also don't know how to display the text in the beginning and let it disappear on its own.
