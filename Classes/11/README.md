@@ -1,14 +1,16 @@
-# Class XX
+# Week 06 Class A
 
-## Slides
+## In-Class
 
-The Google Slides can be accessed from [#](Link Here)
+Today will be an in-class work day to continue or begin your midterm project.
 
-A PDF of the slides can be found in this directory.
+We will start by going around the room and sharing our idea or ideas for the assignment, and give each other feedback.
+
+Afterwards we will start our studio-class work and I will review the experiments and prototypes you produced over the weekend.
 
 ## Homework Format
 
-Homework deliverables here.
+Continue work on your project- you should have made some major first steps by next class.
 
 ## Post-class Communique
 

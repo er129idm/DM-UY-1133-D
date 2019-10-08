@@ -14,10 +14,10 @@ As I've mentioned, if there is any technique, technology, or topic you're intere
 
 #### Libraries
 * External library downloader
-* Video Camera
+* Video Camera (Video)
   * Getting the image
   * Manipulating pixels
-* Sound
+* Sound (Sound / Minim)
   * Playback
   * Input
 * Physics (Box2d)
