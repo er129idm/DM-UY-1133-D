@@ -47,4 +47,6 @@ Synthesize what you are noticing in your notes, assignments, etc. with regard to
 
 Your assessment should have a minimum of three citations from lectures, weekly discussions, code or concepts, and/or tutorials.
 
-* Send your feedback notes, self assessment, and final project to me via Slack.
+* Produce a number of still, or one still and one video capture, documenting your midterm. Post this do our class Instagram and our class Slack.
+
+* Send your feedback notes, self assessment, final project, and documentation to me via Slack.
