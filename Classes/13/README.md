@@ -28,7 +28,7 @@
 
 ### Documentation
 
-Produce a number of still, or one still and one video capture, documenting your midterm. Post this do our class Instagram and our class Slack.
+Produce a number of still, or one still and one video capture, documenting your midterm. Post this to our class Instagram and our class Slack.
 
 ### Self Assessment Paper
 
