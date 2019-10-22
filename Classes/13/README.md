@@ -26,10 +26,16 @@
 
 ## Homework
 
+### Documentation
 
-* Complete the Midterm Self Assessment:
+Produce a number of still, or one still and one video capture, documenting your midterm. Post this do our class Instagram and our class Slack.
+
+### Self Assessment Paper
+
+Complete the Midterm Self Assessment:
 
 Write a narrative midterm self-evaluation that is a bare minimum of 2 complete paragraphs.
+
 
 ```
 In this narrative, address the following:
@@ -47,6 +53,6 @@ Synthesize what you are noticing in your notes, assignments, etc. with regard to
 
 Your assessment should have a minimum of three citations from lectures, weekly discussions, code or concepts, and/or tutorials.
 
-* Produce a number of still, or one still and one video capture, documenting your midterm. Post this do our class Instagram and our class Slack.
+### Deliverable files
 
-* Send your feedback notes, self assessment, final project, and documentation to me via Slack.
+Send your feedback notes, self assessment, final project, and documentation to me via Slack.
