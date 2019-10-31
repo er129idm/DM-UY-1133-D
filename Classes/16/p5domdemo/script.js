@@ -1,10 +1,15 @@
 // var imageElements;
 
 function setup() {
+
+  // createCanvas(100, 50);
+  // background(153);
+  // line(0, 0, width, height);
+
   noCanvas();
 
-  let txt = createDiv('BOO!');
-  txt.position(random(300), random(300));
+  // let txt = createDiv('BOO!');
+  // txt.position(random(300), random(300));
 
   // imageElements = selectAll('.photo');
 
