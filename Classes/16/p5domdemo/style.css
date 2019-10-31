@@ -1,0 +1,34 @@
+body, html {
+  box-sizing: border-box;
+  background-color: #111;
+  font-family: sans-serif;
+  color: #e97c23;
+}
+
+body {
+  display: flex;
+  /* align-items: center; */
+  justify-content: center;
+  font-size: 2rem;
+}
+
+.mainContainer {
+  box-sizing: border-box;
+  width: 80vw;
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(6, 4, 1);
+  padding: 2vmin;
+}
+
+.photoContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden
+}
+
+.photoContainer img {
+  width: 20vw;
+  margin: 2vw;
+}
