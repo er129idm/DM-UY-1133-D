@@ -1,0 +1,15 @@
+body, html {
+  background-color: #000;  
+/*   wanted color to flash but couldn't 
+  figure out how */
+  box-sizing: border-box;  
+  font-family: Comic Sans MS;
+  color: rgb(230,0,0);
+}
+
+body {
+  justify-content: center;
+  font-size: 2rem;
+
+
+}

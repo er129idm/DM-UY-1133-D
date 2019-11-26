@@ -1,0 +1,6 @@
+I had a huge problem not being able to load the images based on the mouse clicks. I'm not sure what I exactly did wrong. 
+
+I used the mouseclicks to create shapes and then replaced the shapes with images that I have in my folder. But for some reason I could not get the images to pull up on the local
+server. 
+
+I was able to get the sound working but the images is still a work in progress.

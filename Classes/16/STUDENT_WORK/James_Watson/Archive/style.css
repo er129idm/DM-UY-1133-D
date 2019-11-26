@@ -1,0 +1,46 @@
+body, html {
+  box-sizing: border-box;
+  background-color: black;
+  font-family: calibri;
+  color: lime;
+  text-align: center;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  font-size: 5rem;
+}
+
+h1 {
+  text-shadow: 5px 5px 25px lime;
+}
+
+.mainContainer {
+  box-sizing: border-box;
+  /* width: 100%; */
+  display: flex;
+  flex-direction: column;
+  /* background-color: #ff0072; */
+  background-color: transparent !important;
+  padding: 1vmin;
+}
+
+.photoContainer {
+  display: flex;
+  justify-content: center;
+  align-items: column;
+  overflow: hidden
+}
+
+.photoContainer img {
+  width: 20vw;
+  margin: 2vw;
+}
+
+#defaultCanvas0 {
+  position: fixed;
+  top: 0px;
+  left: 0px;
+  z-index: -1;
+}

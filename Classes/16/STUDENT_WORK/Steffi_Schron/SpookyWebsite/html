@@ -1,0 +1,32 @@
+<!doctype html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+  <link rel="stylesheet" href="style.css">
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/p5.min.js"></script>
+  <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/addons/p5.dom.min.js"></script>
+  <script src="script.js"></script>
+</head>
+
+<body>
+  <div class="mainContainer">
+
+    <h1 class="mainHeader">Steffi's Spooky Website</h1>
+
+    <p>Trick-or-treating is a Halloween ritual custom for children and adults in many countries. Children in costumes travel from house to house, asking for treats with the phrase "Trick or treat". The "treat" is usually some form of candy, although
+      in some cultures money is used instead.</p>
+
+    <div class="photoContainer">
+      <img class="photo" src="https://loremflickr.com/640/480/halloween" />
+      <img class="photo" src="https://loremflickr.com/640/480/pumpkin" />
+      <img class="photo" src="https://loremflickr.com/640/480/ghost" />
+    </div>
+
+    <p>The "trick" refers to a threat, usually idle, to perform mischief on the homeowners or their property if no treat is given.</p>
+
+  </div>
+</body>
+
+</html>

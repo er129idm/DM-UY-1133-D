@@ -1,0 +1,63 @@
+RULES:
+"Run from the monster" "Kill monsters" "Level up"
+"booby trap"
+"Space Exploration"
+"Gotta have swag", "Treat yo'self", "Have fun"
+"Don't touch anything", "Yellow means incoming", "No number can be pressed twice"
+"No rule", "only three syllable words","can't delete",
+"Take a photo after every step", "Now jump", "Sneeze",
+"400 IQ Plays Only", "No Respawn", "Restart Game at Death",
+"Once you put a card down you can't change your play", "Youngest goes first", "Left of the dealer starts",
+"30 second time limit", "no respawns", "no shoes allowed",
+"No running","Can't open your eyes","Can't talk",
+"You have three lives", "If you fall into the pit you lose one life", "You have to kill all the enemies to go to next level",
+"No double dribble", "Knights can only move in an L shape", "no tag back",
+"characters are popcorn", "always looping", "contrast with normal controller"
+
+CHARACTERS:
+"Mr.Sparki", "Jesus", "God"
+"easter egg",
+"Dovakin",
+"Boomer-Aang", "Naruto", "Michael Cera"
+"Her", "Him", "Them"
+"A rabbit","Some mushrooms"," A chomped",
+"Jon Snow", "A fangirl", "Broccoli",
+"Spoopy Skeleton", "Paula Deen", "Elon Musk",
+"PIKACHU", "Bank teller", "Cop",
+"Abraham Lincoln", "The Hulk", "Jeff Goldblum",
+"Snake","Wario","Kirby",
+"Rachel Green", "Ross Geller", "Phoebe Buffay", "Monica Geller", "Joey Tribbiani", "Chandler Bing",
+"Cassiopeia", "Ponyboy", "HER",
+"Pikachu", "dumpling", "mushmellow"
+
+ITEMS:
+"Cross", "stick", "pizza",
+"surprise effect",
+"Watch",
+"Ichiraku Ramen", "Boomerang", "Hockey Puck"
+"Chairs", "Crystals", "Pings"
+"A toothpaste","A broken heart","A magical watch",
+"Piano", "Film camera", "film",
+"Pen", "Keyboard", "Phone", "Bracelet", "Chain",
+"Dice", "Cards", "board",
+"chicken drum stick", "rain boots", "salt shaker",
+"Magic orb","lightening shoes","Armor suit",
+"fossil", "flying parka", "couch", "turkey with sunglasses",
+"Potion of madness", "A slice of cheese", "Danny Devito's autograph",
+"Rainbow", "album", "candy",
+
+INTERACTIONS:
+"kill the rabbit ","press 'Z' for sleep","type the weapon you can think to attack ",
+"match __ to ___", "pin the __ to the ___", "take a ginger shot",
+"Jump", "Flex", "Crouch",
+"attack", "teleport", "shoot",
+"blow up something",
+"Race",
+"Teach Me How To Dougie", "Level Up", "Milly Rock"
+"Hold down a", "Move joystick to walk", "Write a story"
+"Pick up a card", "Drag to the right pile", "Say UNO when you have one card",
+"mouse pan to look around", "QWOP to move", "space to deactivate gravity",
+"Crawl","roll","hide under a box",
+"Press space key to jump", "Choose your character", "Yell as loud as you can",
+"Cool down time", "konami code", "buy ___",
+"Fly", "disappear", "eat everything",

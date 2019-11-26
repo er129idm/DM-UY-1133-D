@@ -1,0 +1,51 @@
+<!doctype html>
+ <html>
+
+ <head>
+   <meta charset="utf-8">
+   <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+   <link rel="stylesheet" href="style.css">
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/p5.min.js"></script>
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.9.0/addons/p5.dom.min.js"></script>
+
+   <script src="script.js"></script>
+
+ </head>
+
+ <body>
+   <div class="mainContainer">
+ <center><h1 class="mainHeader">Trick Or Treat?</h1>
+
+        <center><p>Your fate is in your own hands.
+     </p>
+      <center> <p>Pick the right card, you shall live forever. Pick the wrong one, you shall rot in hell!</p>
+   <center> <p>So, which one would it be?</p>
+
+
+
+
+     <div class="row">
+
+       <div class="column">
+         <img class ="img" src="1.png" onmouseover="this.src='choice.png'" onmouseout="this.src='1.png'">
+         <img class ="img" src="4.png" onmouseover="this.src='choice.png'" onmouseout="this.src='4.png'">
+         <img class ="img" src="7.png" onmouseover="this.src='choice.png'" onmouseout="this.src='7.png'">
+
+       </div>
+       <div class="column">
+         <img class ="img" src="2.png" onmouseover="this.src='choice.png'" onmouseout="this.src='2.png'">
+         <img class ="img" src="5.png" onmouseover="this.src='choice.png'" onmouseout="this.src='5.png'">
+         <img class ="img" src="8.png" id="imgClickAndChange" onclick="changeImage()" onmouseover="this.src='choice.png'" onmouseout="this.src='8.png'">
+
+       </div>
+       <div class="column">
+         <img class ="img" src="3.png" onmouseover="this.src='choice.png'" onmouseout="this.src='3.png'">
+         <img class ="img" src="6.png" onmouseover="this.src='choice.png'" onmouseout="this.src='6.png'">
+         <img class ="img" src="9.png" onmouseover="this.src='choice.png'" onmouseout="this.src='9.png'">
+ </div>
+
+
+
+   </div>
+ </body>
+ </html>

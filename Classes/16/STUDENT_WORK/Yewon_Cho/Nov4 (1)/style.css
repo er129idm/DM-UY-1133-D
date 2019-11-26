@@ -1,0 +1,52 @@
+*{
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  justify-content: center;
+  background-color: lavenderblush;
+  font-family: "abel";
+}
+
+h1 {
+  font-size: 60px;
+}
+
+.mainContainer {
+  box-sizing: border-box;
+  width: 80vw;
+  display: flex;
+  flex-direction: column;
+  background-color: lavenderblush;
+  padding: 2vmin;
+  font-size: 40px;
+}
+
+.photoContainer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  overflow: hidden;
+  padding: 2vmin;
+}
+
+.photoContainer img {
+  width: 20vw;
+  margin: 0.1vw;
+}
+
+.description {
+  font-size: 30px;
+}
+
+button{
+  background-color: #E1C2F0;
+  border: none;
+  color: #BD61EA;
+  padding: 15px 32px;
+  text-align: center;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+}

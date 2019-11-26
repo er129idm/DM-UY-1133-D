@@ -1,0 +1,5 @@
+The Weird Wide Web HW NOTES
+
+I had a problem with the syntax, I wasn't sure what was proper syntax.
+
+I also can't get it so that it would only manipulate the elements when clicking the button, it manipulates when you click anywhere.
